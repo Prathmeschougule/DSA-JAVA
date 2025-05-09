@@ -10,12 +10,7 @@ public class LenearSearch {
       System.out.println(result);
       System.out.println(result2);
       System.out.println(result3);
-
-
-
     }
-    
-
 
 
     // return the true or false 
@@ -39,8 +34,6 @@ public class LenearSearch {
     }
     return false;
 }
-
-
 
 
     // return the value 
