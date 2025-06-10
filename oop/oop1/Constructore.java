@@ -1,4 +1,4 @@
-package oop;
+package oop.oop1;
 
 public class Constructore {
     public static void main(String[] args) {
