@@ -7,6 +7,7 @@ public class Main {
         Square square = new Square();
         Triangle triangle = new Triangle();
 
+        shape.area();
         triangle.area();
         shape.area();
     }
