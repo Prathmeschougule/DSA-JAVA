@@ -16,11 +16,15 @@ public class Car implements  Engine,Break ,Media{
     public void stop() {
         System.out.println("Stop as a  normal car ");
 
-
     }
 
     @Override
     public void acc() {
         System.out.println("acce as a  normal car ");
+    }
+
+    @Override
+    public void enginPrise() {
+        System.out.println("Engin Price = " + PRICE);
     }
 }
