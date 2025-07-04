@@ -9,7 +9,7 @@ public class Main {
 
 //       Simple
 
-        LambdaExpression g =() -> System.out.println("This is the Lambda Function Example");
+        LambdaExpression g = () -> System.out.println("This is the Lambda Function Example");
         g.sayHello();
 
 //        Calculate

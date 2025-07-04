@@ -11,7 +11,7 @@ public class HashCode {
     }
     public static void main(String[] args) {
 
-        HashCode obj =  new HashCode(23);
+        HashCode obj =  new HashCode(78);
         HashCode obj1 =  new HashCode(23);
 
         System.out.println(obj.hashCode());

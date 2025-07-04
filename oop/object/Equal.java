@@ -30,6 +30,8 @@ public class Equal {
 
         Equal obj = new Equal("Adminat" , "Kolhapur");
         Equal obj2 =obj;
+
+
         Equal obj3 = new Equal( " Adminat", "Kolhapur");
         Equal obj4 = new Equal( " Adminat", "Kolhapur");
 
@@ -41,6 +43,6 @@ public class Equal {
         System.out.println(obj==obj3);
 
         System.out.println(obj.equals(obj2));
-        System.out.println(obj.equals(obj3));
+        System.out.println(obj4.equals(obj3));
     }
 }
