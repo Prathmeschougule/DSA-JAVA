@@ -1,8 +1,6 @@
-package oop.collectionFremwork;
+package oop.collectionFremwork.linkedList;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
 
 public class Main {
 
@@ -12,13 +10,15 @@ public class Main {
 //       ArrayList
 
         ArrayList<Integer> list = new ArrayList<>();
-
          list.add(12);
          list.add(32);
          list.add(45);
          System.out.println("This is the Array List " + list);
 
-         list.remove(0);
+         list.set(0,500);
+        System.out.println("This is the Array List " + list);
+
+         list.remove(1);
          System.out.println("This is the Array List " + list);
 
          list.add(0,344);

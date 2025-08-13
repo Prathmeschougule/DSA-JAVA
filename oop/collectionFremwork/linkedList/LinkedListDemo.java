@@ -1,4 +1,4 @@
-package oop.collectionFremwork;
+package oop.collectionFremwork.linkedList;
 
 import java.util.LinkedList;
 
@@ -9,6 +9,9 @@ public class LinkedListDemo {
         car.add("nano");
         car.add("safari");
         car.add("maruti");
+        car.addFirst("First ");
+        car.addLast("This is the Last");
+        car.removeFirst();
         System.out.println(car);
     }
 }
