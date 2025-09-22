@@ -1,4 +1,4 @@
-package LinearSearch;
+package problems.LinearSearch;
 public class LenearSearch {
     public static void main(String[] args) {
       int[] num={23,43,23,43,32};

@@ -25,7 +25,7 @@ public class Main {
 
         List<Integer> list = new ArrayList<>();
 
-        System.out.println("This is the My Array list ");
+        System.out.println("This is the My oop.Array list ");
         for (int i = 0 ; i < 5 ; i ++){
             list.add(i+1);
 

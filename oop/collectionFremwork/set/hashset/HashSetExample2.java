@@ -1,4 +1,4 @@
-package oop.collectionFremwork.set;
+package oop.collectionFremwork.set.hashset;
 
 import java.util.HashSet;
 

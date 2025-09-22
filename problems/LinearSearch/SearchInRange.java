@@ -1,4 +1,4 @@
-package LinearSearch;
+package problems.LinearSearch;
 
 public class SearchInRange {
     

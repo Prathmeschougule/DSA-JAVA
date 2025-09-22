@@ -13,20 +13,20 @@ public class Main {
          list.add(12);
          list.add(32);
          list.add(45);
-         System.out.println("This is the Array List " + list);
+         System.out.println("This is the oop.Array List " + list);
 
          list.set(0,500);
-        System.out.println("This is the Array List " + list);
+        System.out.println("This is the oop.Array List " + list);
 
          list.remove(1);
-         System.out.println("This is the Array List " + list);
+         System.out.println("This is the oop.Array List " + list);
 
          list.add(0,344);
-         System.out.println("This is the Array List " + list);
+         System.out.println("This is the oop.Array List " + list);
 
 
          list.size();
-         System.out.println("This is the Array List " + list);
+         System.out.println("This is the oop.Array List " + list);
 
 
           if (list.isEmpty()){
