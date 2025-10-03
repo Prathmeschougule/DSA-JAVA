@@ -1,6 +1,7 @@
 package problems.pattern;
 
 //Zero-One Triangle Pattern
+
 //1
 //0 1
 //1 0 1
