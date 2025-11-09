@@ -1,5 +1,4 @@
 package oop.generics;
-import java.nio.file.Watchable;
 
 import static oop.generics.GenericMethod.genericDisplay;
 
@@ -9,12 +8,12 @@ public class Main {
     public static void main(String[] args) {
 
 //    instance of the integer type
-        Test<Integer> iObje= new Test<Integer>(78);
+        TestExample<Integer> iObje= new TestExample<Integer>(78);
         System.out.println(iObje.obj);
 
         //        instance of the integer type
 
-        Test<String> sObj= new Test<>("This is the Test Class ");
+        TestExample<String> sObj= new TestExample<>("This is the Test Class ");
         System.out.println(sObj.obj);
 
 

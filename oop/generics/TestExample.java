@@ -1,7 +1,7 @@
 package oop.generics;
 
 //we use <> to specific parameter type
-public class Test<T> {
+public class TestExample<T> {
 
 
 //    an object of type t
@@ -9,7 +9,7 @@ public class Test<T> {
 
 //    constructore
 
-    Test(T obj){
+    TestExample(T obj){
         this.obj=obj;
     }
 
